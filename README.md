@@ -19,4 +19,4 @@ This repository holds all of my data-related projects that I've done over the ye
   -  [Scrapping Bot for Seloger.com](https://github.com/chamsco/data_science/tree/main/seloger_scrapping):Using Selenium to get the datas from the website  [Seloger.com](Seloger.com) to build a dataset and analyse said dataset to build a portfolio of soon to be delivered buildings for clients.
   - [Movie Recommendations using Recommender Systems (in progress)] : A micro project to build a recommendation system that makes movie recommendations based on user review similarities. 
   
-    _Tools: scikit-learn, Pandas, Selenium 
+    _Tools: scikit-learn, Pandas, Selenium_
